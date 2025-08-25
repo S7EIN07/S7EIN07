@@ -100,6 +100,18 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
 </p>
 
+
+---
+
+<p align="center">
+  <a href="https://instagram.com/jai.stein">
+    <img src="https://img.shields.io/badge/-Instagram-000000?style=plastic&logo=instagram&logoColor=E4405F"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jailson-stein-408933355">
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=plastic&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+</p>
+
 ---
 
 <p align="center"><img src="https://count.getloli.com/get/@S7EIN07?theme=dark"/></p>
