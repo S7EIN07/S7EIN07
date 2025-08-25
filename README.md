@@ -107,6 +107,7 @@
   <a href="https://instagram.com/jai.stein">
     <img src="https://img.shields.io/badge/-Instagram-ff8da1?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
+<br>
   <a href="https://www.linkedin.com/in/jailson-stein-408933355">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
