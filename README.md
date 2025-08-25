@@ -16,7 +16,6 @@
 
 ### Estatísticas do meu GitHub
 
-![S7EIN07's GitHub stats](https://github-readme-stats.vercel.app/api?username=S7EIN07&show_icons=true&theme=dark&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S7EIN07&layout=compact&theme=dark)
 ![S7EIN07's streak](https://github-readme-streak-stats.herokuapp.com/?user=S7EIN07&theme=dark)
 
