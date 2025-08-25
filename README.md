@@ -8,7 +8,7 @@
 <p align="center">
   Olá! Bem-vindo ao meu cantinho no GitHub.<br>
   Sou um apaixonado por tecnologia e estou em constante evolução na minha jornada para me tornar um desenvolvedor full stack.<br>
-  Atualmente, estou me dedicando a aprender sobre a fundo as tecnologias que você verá abaixo. Busco construir projetos cada vez mais robustos e contribuir com a comunidade.
+  Atualmente, estou me dedicando a aprender a fundo as tecnologias que você verá abaixo. Busco construir projetos cada vez mais robustos e contribuir com a comunidade.
 </p>
 
 <div align="center">
