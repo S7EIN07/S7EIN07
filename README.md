@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <img align="center" src="https://media1.tenor.com/m/nYepJTU5oPAAAAAC/stan-twt-funny.gif" alt="Pixel Art" align="right" width="200">
+  <img align="center" src="https://media.tenor.com/Gmg3LGO6q7UAAAAj/rain-world.gif" alt="Pixel Art" align="right" width="200">
 </div>
 
 ---
