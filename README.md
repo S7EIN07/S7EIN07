@@ -39,6 +39,9 @@
         alt="Github Stats"
       />
     </td>
+    <td>
+     <img src="https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg" />
+    </td>
   </tr>
 </table>
 
