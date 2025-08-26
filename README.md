@@ -142,6 +142,3 @@
 <p align="center"><img src="https://count.getloli.com/get/@S7EIN07?theme=dark"/></p>
 
 ---
-
-![Snake animation](https://github.com/S7EIN07/S7EIN07/blob/output/github-contribution-grid-snake.svg)
-
