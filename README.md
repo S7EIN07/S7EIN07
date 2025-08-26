@@ -44,8 +44,9 @@
 
 ---
 
-<h2 align="center">Projetos em Destaque</h2>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=1&pause=99999&color=FFC300&center=true&vCenter=true&width=500&lines=Projetos-em-destaque"/>
+</p>
 <p align="center">
   <a href="https://github.com/S7EIN07/SteinApp">
     <img src="https://img.shields.io/badge/SteinApp-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -59,7 +60,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=1&pause=99999&color=FFC300&center=true&vCenter=true&width=300&lines=Compet%C3%AAncias"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=1&pause=99999&color=FFD700&center=true&vCenter=true&width=300&lines=Compet%C3%AAncias"/>
 </p>
 
 <p align="center">
