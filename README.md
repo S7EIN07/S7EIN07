@@ -1,10 +1,12 @@
 <div align="center">
-  <img style="vertical-align: middle;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&color=F7F7F7&center=false&vCenter=false&width=500&lines=Eu+sou+Jailson+Stein;Aspirante+a+dev+full+stack" />
+<img style="vertical-align: middle;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&color=B200F3&center=false&vCenter=false&width=500&lines=%E2%9C%A8+Eu+sou+Jailson+Stein+%E2%9C%A8;Aspirante+a+dev+full+stack%F0%9F%92%BB" />
 </div>
 
 ---
 
-<h2 align="center">Sobre mim</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=1&pause=99999&color=B200F3&center=true&vCenter=true&width=300&lines=Sobre+mim"/>
+</p>
 <p align="center">
   Olá! Bem-vindo ao meu cantinho no GitHub.<br>
   Sou um apaixonado por tecnologia e estou em constante evolução na minha jornada para me tornar um desenvolvedor full stack.<br>
@@ -18,9 +20,9 @@
 
 ---
 
-<h2 align="center">
-  Confira minhas estatísticas no GitHub:
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=1&pause=99999&color=FFD700&center=true&vCenter=true&width=500&lines=Minhas+Estat%C3%ADsticas"/>
+</p> 
 <table align="center">
   <tr>
     <td>
@@ -43,18 +45,26 @@
 ---
 
 <h2 align="center">Projetos em Destaque</h2>
+
 <p align="center">
-  Stein - Projeto em produção, um aplicativo de auxiliio escolar utilizando flutter
+  <a href="https://github.com/S7EIN07/SteinApp">
+    <img src="https://img.shields.io/badge/SteinApp-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white"/>
+  </a>
+  <a href="https://github.com/S7EIN07/SteinAssistant">
+    <img src="https://img.shields.io/badge/SteinAssistant-Vue.js-green?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  </a>
 </p>
-<p align="center">
-  SteinAssistant - Projeto em andamento, site divulgação do app Stein, utilizando vue, node.js e bootstrap
-</p>
+
 
 ---
 
-<h2 align="center">Competências</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=1&pause=99999&color=FFC300&center=true&vCenter=true&width=300&lines=Compet%C3%AAncias"/>
+</p>
 
-<h3 align="center">Front-end</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=99999&color=00FF00&center=true&vCenter=true&width=300&lines=Front-end"/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -64,12 +74,9 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-<h3 align="center">Mobile</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=99999&color=FF5733&center=true&vCenter=true&width=300&lines=Back-end"/>
 </p>
-
-<h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -77,7 +84,16 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-<h3 align="center">Soft Skills</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=99999&color=33C1FF&center=true&vCenter=true&width=300&lines=Mobile"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=99999&color=FF6F61&center=true&vCenter=true&width=300&lines=Soft+Skills"/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Comunicação-blue?style=for-the-badge" alt="Comunicação" />
   <img src="https://img.shields.io/badge/Trabalho_em_equipe-orange?style=for-the-badge" alt="Trabalho em Equipe" />
@@ -85,12 +101,16 @@
   <img src="https://img.shields.io/badge/Adaptabilidade-green?style=for-the-badge" alt="Adaptabilidade" />
 </p>
 
-<h3 align="center">Aprendendo</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=99999&color=9D33FF&center=true&vCenter=true&width=300&lines=Aprendendo"/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
-<h3 align="center">Próximos</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=99999&color=00ff00&center=true&vCenter=true&width=300&lines=Pr%C3%B3ximos+passos"/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -105,10 +125,12 @@
 ---
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=99999&color=28A745&center=true&vCenter=true&width=300&lines=Contato"/>
+</p>
+<p align="center">
   <a href="https://instagram.com/jai.stein">
     <img src="https://img.shields.io/badge/-Instagram-ff8da1?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
-<br>
   <a href="https://www.linkedin.com/in/jailson-stein-408933355">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
