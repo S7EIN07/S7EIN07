@@ -8,9 +8,8 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=1&pause=99999&color=B200F3&center=true&vCenter=true&width=300&lines=Sobre+mim"/>
 </p>
 <p align="center">
-  Olá! Bem-vindo ao meu cantinho no GitHub.<br>
-  Sou um amante da tecnologia e estou em buscando constante evolução na minha jornada para me tornar um desenvolvedor full stack.<br>
-  Atualmente, estou me dedicando a aprender a fundo as tecnologias que você verá abaixo. Com o passar do tempo busco construir projetos cada vez mais robustos e contribuir com a comunidade, por enquanto esou vendo o básico das linguagens e ferramentas mais utilizadas e buscando ua especialização.
+  Olá! Bem-vindo ao meu cantinho no GitHub.<br>  
+  Sou apaixonado por tecnologia e estou em constante evolução para me tornar um desenvolvedor full stack. Atualmente estudo as bases das principais linguagens e ferramentas, enquanto construo projetos práticos e busco minha especialização.
 </p>
 
 <div align="center">
