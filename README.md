@@ -143,4 +143,5 @@
 
 ---
 
-![snake gif](https://github.com/S7EIN07/S7EIN07/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/S7EIN07/S7EIN07/blob/output/github-contribution-grid-snake.svg)
+
