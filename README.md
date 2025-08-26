@@ -39,9 +39,6 @@
         alt="Github Stats"
       />
     </td>
-    <td>
-     <img src="https://github.com/S7EIN07/S7EIN07/blob/output/github-contribution-grid-snake.svg" />
-    </td>
   </tr>
 </table>
 
@@ -143,3 +140,7 @@
 ---
 
 <p align="center"><img src="https://count.getloli.com/get/@S7EIN07?theme=dark"/></p>
+
+---
+
+![snake gif](https://github.com/S7EIN07/S7EIN07/blob/output/github-contribution-grid-snake.svg)
