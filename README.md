@@ -1,5 +1,3 @@
----
-
 <div align="center">
 <img style="vertical-align: middle;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&color=B200F3&center=false&vCenter=false&width=500&lines=%E2%9C%A8+Eu+sou+Jailson+Stein+%E2%9C%A8;Aspirante+a+dev+full+stack%F0%9F%92%BB" />
 </div>
