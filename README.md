@@ -105,7 +105,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=99999&color=9D33FF&center=true&vCenter=true&width=300&lines=Aprendendo"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Node.Js-20232A?style=for-the-badge" alt="Node JS" />
 </p>
 
 <p align="center">
