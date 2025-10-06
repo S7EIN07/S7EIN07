@@ -43,7 +43,7 @@
 
 ---
 
-<p align="center">
+\\<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=1&pause=99999&color=FFC300&center=true&vCenter=true&width=500&lines=Projetos-em-destaque"/>
 </p>
 <p align="center">
