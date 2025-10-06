@@ -41,20 +41,6 @@
   </tr>
 </table>
 
----
-
-\\<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=1&pause=99999&color=FFC300&center=true&vCenter=true&width=500&lines=Projetos-em-destaque"/>
-</p>
-<p align="center">
-  <a href="https://github.com/S7EIN07/SteinApp">
-    <img src="https://img.shields.io/badge/SteinApp-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white"/>
-  </a>
-  <a href="https://github.com/S7EIN07/SteinAssistant">
-    <img src="https://img.shields.io/badge/SteinAssistant-Vue.js-green?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  </a>
-</p>
-
 
 ---
 
